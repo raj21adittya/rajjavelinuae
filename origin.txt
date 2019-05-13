@@ -1,0 +1,316 @@
+Uri: http://www.javelinuae.com/
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\index.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/img/favicon.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\favicon.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/css/styles.css
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\styles.css
+Content Type: text/css
+
+Uri: http://www.javelinuae.com/css/bootstrap-override.css
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\bootstrap-override.css
+Content Type: text/css
+
+Uri: http://www.javelinuae.com/css/font-awesome/font-awesome.css
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\font-awesome\font-awesome.css
+Content Type: text/css
+
+Uri: http://www.javelinuae.com/css/flexslider.css
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\flexslider.css
+Content Type: text/css
+
+Uri: http://www.javelinuae.com/index.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\index-1.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/about-us.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\about-us.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/products.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\products.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/erp.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\erp.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/ecommerce.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\ecommerce.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/crm.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\crm.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/solutions.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\solutions.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/pos.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\pos.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/rfid.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\rfid.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/barcode.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\barcode.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/restaurant.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\restaurant.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/time.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\time.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/client.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\client.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/careers.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\careers.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/contact.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\contact.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/website-design.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\website-design.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/seo.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\seo.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/img/logo111.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\logo111.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/img/slider/1.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\slider\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/slider/2.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\slider\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/slider/3.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\slider\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/slider/4.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\slider\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/stream/erp-icon.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\stream\erp-icon.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/stream/ecom-icon.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\stream\ecom-icon.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/stream/crm-icon.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\stream\crm-icon.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/expertise.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\expertise.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/ecommerce.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\ecommerce.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/img/Webdsign.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\Webdsign.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/img/Seo.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\Seo.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/js/jquery-1.8.3.min.js
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\js\jquery-1.8.3.min.js
+Content Type: application/javascript
+
+Uri: http://www.javelinuae.com/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://www.javelinuae.com/js/functions.js
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\js\functions.js
+Content Type: application/javascript
+
+Uri: http://www.javelinuae.com/js/jquery.flexslider.js
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\js\jquery.flexslider.js
+Content Type: application/javascript
+
+Uri: http://www.javelinuae.com/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.javelinuae.com/css/bootstrap-responsive.min.css
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\bootstrap-responsive.min.css
+Content Type: text/css
+
+Uri: http://www.javelinuae.com/img/zoom-icon.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\zoom-icon.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/img/arrow4.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\arrow4.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/img/comment-img.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\comment-img.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/img/social-networks.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\social-networks.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/img/social-networks-2.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\social-networks-2.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/css/font-awesome/font/fontawesome-webfont.eot@v=3.0.1
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\font-awesome\font\fontawesome-webfont.eot@v=3.0.1
+Content Type: 
+
+Uri: http://www.javelinuae.com/css/font-awesome/font/fontawesome-webfont.eot@
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\font-awesome\font\fontawesome-webfont.eot@
+Content Type: 
+
+Uri: http://www.javelinuae.com/css/font-awesome/font/fontawesome-webfont.woff@v=3.0.1
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\font-awesome\font\fontawesome-webfont.woff@v=3.0.1
+Content Type: 
+
+Uri: http://www.javelinuae.com/css/font-awesome/font/fontawesome-webfont.ttf@v=3.0.1
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\css\font-awesome\font\fontawesome-webfont.ttf@v=3.0.1
+Content Type: 
+
+Uri: http://www.javelinuae.com/img/bg-direction-nav.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\bg-direction-nav.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/img/bg-direction-nav-2.png
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\bg-direction-nav-2.png
+Content Type: image/png
+
+Uri: http://www.javelinuae.com/who-are-we.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\who-are-we.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/values.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\values.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/awards.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\awards.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/construction.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\construction.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/realestate.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\realestate.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/trading.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\trading.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/shipping.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\shipping.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/transportation.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\transportation.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/logistics.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\logistics.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/hcm.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\hcm.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/educational.htm
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\educational.htm
+Content Type: text/html
+
+Uri: http://www.javelinuae.com/img/pos.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\pos.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/rifd.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\rifd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/barcode.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\barcode.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/ADNHgif.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\ADNHgif.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/Al-hayat.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\Al-hayat.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/Al-faris.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\Al-faris.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/rak-abela.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\rak-abela.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/cameat.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\cameat.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/cleanco.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\cleanco.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/immidia.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\immidia.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/itr.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\itr.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/ramla.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\ramla.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/shift.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\shift.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/sge.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\sge.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/spectrum.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\spectrum.jpg
+Content Type: image/jpeg
+
+Uri: http://www.javelinuae.com/img/our-clients/ugib.jpg
+File Name: c:\Downloaded Web Sites\www.javelinuae.com\img\our-clients\ugib.jpg
+Content Type: image/jpeg
+
